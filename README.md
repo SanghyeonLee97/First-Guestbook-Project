@@ -5,6 +5,24 @@
  - 교육에서 배운 MVC2 모델을 적용하여 자바를 기반으로 게시판 구현
  - 축구 팬들을 위한 소통의 공간 제공
 
+
+### 기술 스택
+  #### 프론트엔드
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+
+  #### 백엔드
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+
+  #### 데이터베이스
+  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+
+  #### 툴
+  <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+
+
 ### Software Architecture
 ![image](https://github.com/user-attachments/assets/89117bca-e7a5-49a5-83c2-e64c4b61abca)
 
