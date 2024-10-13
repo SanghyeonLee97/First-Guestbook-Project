@@ -10,18 +10,18 @@
 ## 기술 스택
 
 ### Front-End:
-- **Markup**: <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-- **Styling**: <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-- **Scripting**: <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+- **Markup**: HTML5
+- **Styling**: CSS
+- **Scripting**: JavaScript, jQuery
 
 ### Back-End:
-- **Language**: <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+- **Language**: Java
 
 ### Database:
-- **Database**: <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+- **Database**: Oracle
 
 ### Tools:
-- **Development**: <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+- **Development**: Eclipse
 
 
 ## Software Architecture
